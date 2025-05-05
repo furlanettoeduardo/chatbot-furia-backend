@@ -51,3 +51,5 @@ E de devolução:
   "response": "Resposta gerada pelo modelo"
 }
 ```
+🚨 Aviso
+Certifique-se de que o Ollama esteja rodando e o modelo llama3 esteja carregado corretamente para que o backend funcione conforme esperado.
