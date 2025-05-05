@@ -16,8 +16,8 @@ ollama run llama3
 ### 2. **Clone o repositório**
 
 ```bash
-git clone https://github.com/SEU_USUARIO/NOME_DO_REPOSITORIO_BACKEND.git
-cd NOME_DO_REPOSITORIO_BACKEND
+git clone https://github.com/furlanettoeduardo/chatbot-furia-backend/
+cd chatbot-furia-backend
 ```
 
 ### 2. **Instale as dependências**
